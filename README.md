@@ -12,7 +12,7 @@ This repository contains four assignments from the course **Stochastic-data-proc
 
 ---
 
-### [Assignment A2: Gaussian Mixture Models and Bootstrap](Assignment_A2_TMS150.pdf)
+### [Assignment A2: Gaussian Mixture Models and Bootstrap](Assigment_2.m)
 **Topics:** Gaussian Mixture Models (GMMs), nonparametric/parametric bootstrap, uncertainty quantification
 **Description:**
 - Fits a 3-component GMM to glucose concentration data to identify healthy, prediabetic, and diabetic subpopulations.
@@ -21,7 +21,7 @@ This repository contains four assignments from the course **Stochastic-data-proc
 
 ---
 
-### [Assignment A3: Monte Carlo Methods and Brownian Motion](Assignment_A3_TMS150.pdf)
+### [Assignment A3: Monte Carlo Methods and Brownian Motion](assignment_3.py)
 **Topics:** Monte Carlo integration, Brownian motion simulation, strong/weak convergence
 **Description:**
 - Implements crude and hit-or-miss Monte Carlo for numerical integration.
@@ -30,7 +30,7 @@ This repository contains four assignments from the course **Stochastic-data-proc
 
 ---
 
-### [Assignment A4: Bayesian Inference and Decision Theory](Assignment_A4_TMS150.pdf)
+### [Assignment A4: Bayesian Inference and Decision Theory](Assignment_four.R)
 **Topics:** Bayesian inference, logistic regression, decision theory, expected utility
 **Description:**
 - Applies Bayesian inference to model product success probability using logistic regression.
