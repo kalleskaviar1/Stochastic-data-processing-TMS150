@@ -2,7 +2,7 @@
 
 This repository contains four assignments from the course **Stochastic-data-processing-TMS150**.
 
-### [Assignment A1: Bike-Sharing Data Analysis](Assignment_A1_TMS150.pdf)
+### [Assignment A1: Bike-Sharing Data Analysis](Assignment_One.r)
 **Topics:** Regression, Box-Cox transformation, prediction intervals, model selection
 **Description:**
 - Analyzes real-world bike-sharing data to explore regression techniques.
