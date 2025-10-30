@@ -21,7 +21,7 @@ This repository contains four assignments from the course **Stochastic-data-proc
 
 ---
 
-### [Assignment A3: Monte Carlo Methods and Brownian Motion](assignment_3.py)
+### [Assignment A3: Monte Carlo Methods and Brownian Motion](assingment_3.py)
 **Topics:** Monte Carlo integration, Brownian motion simulation, strong/weak convergence
 **Description:**
 - Implements crude and hit-or-miss Monte Carlo for numerical integration.
