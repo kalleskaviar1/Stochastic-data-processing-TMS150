@@ -1,4 +1,3 @@
-setwd("~/Library/Mobile Documents/com~apple~CloudDocs/TMS150")
 bikesharing <- read.csv("bikesharing.csv", header=TRUE)
 bikesharing <- data.frame(bikesharing)
 
